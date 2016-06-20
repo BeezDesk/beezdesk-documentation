@@ -8,7 +8,7 @@ published: true
 publish_date: 21-05-2010
 # unpublish_date: 21-05-2010
 template: docs
-theme: mailbeez_learn
+theme: beezdesk_learn
 visible: true
 summary:
     enabled: true
