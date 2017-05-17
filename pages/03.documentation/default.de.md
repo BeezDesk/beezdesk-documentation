@@ -4,7 +4,7 @@ title: Dokumentation
 slug: dokumentation
 # menu: Dokumentation
 date: 21-05-2010
-published: true
+published: false
 publish_date: 21-05-2010
 # unpublish_date: 21-05-2010
 template: docs
@@ -36,10 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-Hier gibt es die gesamte verfügbare Dokumentation zu MailBeez und allen Modulen – schon ganz schön umfangreich aber niemals vollständig…
-
-Das Menü links hilft, den Überblick zu behalten – gruppiert nach Anwendungstypen. Und die Such-Funktion findet schnell passende Inhalte.
-
+in Arbeit
 
 
 >>>>>> Auf jeder Seite finden Sie die **Vor** und **Zurück** Pfeile (<i class="fa fa-chevron-left"></i> <i class="fa fa-chevron-right"></i>) mit denen Sie leicht durch die Dokumentation navigieren können. Im Menü links sehen Sie anhand der Markierungen (<i class="fa fa-check"></i>), welche Seiten Sie bereits besucht haben.

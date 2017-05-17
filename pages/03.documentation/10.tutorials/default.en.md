@@ -37,6 +37,5 @@ metadata:
 
 # Tutorials
 
-Learn how to configure and customize your MailBeez system
 
-Please make sure you have read the [Basics](/documentation/basics) chapter and there the [Guide to Getting Started](/documentation/basics/guide-to-getting-started)!
+coming Soon

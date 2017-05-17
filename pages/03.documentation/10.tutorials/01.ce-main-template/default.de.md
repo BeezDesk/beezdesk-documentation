@@ -1,7 +1,7 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Anpassung der Hauptvorlage
-slug: ce-anpassung-der-hauptvorlage
+title: Konfiguration eines Email-Kontos
+slug: email
 published: true
 template: docs
 visible: true
@@ -12,13 +12,10 @@ summary:
 taxonomy:
     migration_status: done
     category: [docs]
-    tag: [ce]
+    tag: []
     
 -------------
 
 
 
-Als Nutzer der kostenfreien Grundversion können Sie im
-[Schnelleinstieg, Schritt 3](/dokumentation/grundlagen/schnelleinstieg#schritt-3-gestalten-sie-die-vorlagen-nach-ihren-wunschen) lesen, wie die gemeinsame Hauptvorlage angepasst werden kann.
-
->>>>>>[plugin:content-inject](/content_blocks/pro_template_manager)
+in Arbeit

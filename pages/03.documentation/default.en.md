@@ -3,10 +3,7 @@
 title: Documentation
 slug: documentation
 # menu: Documentation
-date: 21-05-2010
-published: true
-publish_date: 21-05-2010
-# unpublish_date: 21-05-2010
+published: false
 template: docs
 theme: beezdesk_learn
 visible: true
@@ -36,11 +33,7 @@ metadata:
 #  last_modified: true
 ---
 
-Here it is, one huge list of everything we do, plus installation guides. 
-
-Phew, very exhausting. 
-
-However, if you want to browse in a slightly more manageable way, then please check out our navigation area to the left, where you will find modules categorized by type – a handy way to find your way around the site.
+coming soon
 
 
 

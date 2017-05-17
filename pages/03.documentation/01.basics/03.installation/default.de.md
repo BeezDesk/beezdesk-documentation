@@ -38,6 +38,4 @@ metadata:
 
 # Installation
 
-Bitte wählen Sie Ihr Shop-System aus der folgenden Liste.
-
-Falls Ihr Shop-System nicht aufgeführt ist, aber auf osCommerce basiert, werden Sie die besten Chancen mit der Grund Installation für osCommerce haben.
+in Arbeit

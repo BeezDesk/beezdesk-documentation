@@ -1,3 +1,4 @@
+
 ---
 # http://learn.getgrav.org/content/headers
 title: Installation
@@ -40,7 +41,4 @@ metadata:
 
 # Installation
 
-
-please choose your platform:
-
-If your system is not in the list, but based on osCommerce you will most probably be successful with following the Basic Installation for osCommerce.
+coming soon

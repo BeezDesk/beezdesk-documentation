@@ -9,4 +9,3 @@ taxonomy:
 
 # Grundlagen
 
-Entdecken Sie, wie Sie die Kundenbindung in Ihrem Shop mit Hilfe von **MailBeez** verbessern können.

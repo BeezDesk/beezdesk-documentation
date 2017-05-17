@@ -4,21 +4,11 @@ taxonomy:
     category: docs
 ---
 
-MailBeez is intentionally designed with few requirements. With a very small footprint, you can quickly and easily install MailBeez into your online shopping-cart system.  
 
-It maintains it's own tables and is developed not to interfer with other addons.
+### Requirements
 
-### eCommerce Systems
-
-MailBeez supports a range of online shopping-cart systems based on osCommerce and its forks.. like Zencart. Please visit
-[MailBeez Installation](/documentation/installation) to see if your online shopping-cart system is compatible with MailBeez.
-
-
-
-### PHP Requirements
-
-Very likely you already have an online shopping-cart system running on a Server with PHP5.2+ - that’s enough for MailBeez to work!
-
+PHP7
+Mysql 5.6
 
 
 ## Recommended Tools

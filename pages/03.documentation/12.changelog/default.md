@@ -4,7 +4,7 @@ title: Changelog
 slug: changelog
 # menu: Changelog
 date: 30-05-2010
-published: true
+published: false
 publish_date: 30-05-2010
 # unpublish_date: 30-05-2010
 template: changelog

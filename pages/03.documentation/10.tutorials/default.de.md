@@ -38,6 +38,4 @@ metadata:
 # Tutorials
 
 
-Lernen Sie, wie das MailBeez System konfiguriert und angepasst werden kann.
-
-Bitte unbedingt zunächst den Abschnitt [Grundlagen](/dokumentation/grundlagen) und dort besonders den [Schnelleinstieg](/dokumentation/grundlagen/schnelleinstieg) lesen.
+in Arbeit
