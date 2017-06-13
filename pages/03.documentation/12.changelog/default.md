@@ -4,7 +4,7 @@ title: Changelog
 slug: changelog
 # menu: Changelog
 date: 30-05-2010
-published: false
+published: true
 publish_date: 30-05-2010
 # unpublish_date: 30-05-2010
 template: changelog
@@ -39,16 +39,12 @@ metadata:
 #  last_modified: true
 ---
 
-<!--
-{{ 'core'|mailbeez_core_version }}
-{{ 'core'|mailbeez_core_date|date("d. M. Y") }}
-{{ 'core'|mailbeez_core_filesize|mailbeez_formatBytes }}
--->
+
 
 <hr>
 
 
 <div class="changelog" markdown="1" >    
-<!--{{ 'core'|mailbeez_core_changelog|markdown }}-->
+<!--{{ 'core'|beezdesk_changelog|markdown }}-->
 </div>
 
